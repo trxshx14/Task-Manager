@@ -1,4 +1,4 @@
-Task Manager
+# TASK MANAGER
 
 A simple web-based task manager built with Django. This application allows users to create, view, update, and delete tasks to help manage daily activities efficiently.
 
@@ -13,3 +13,4 @@ Features:
 • Delete tasks
 
 • Mark tasks as completed 
+
